@@ -1,7 +1,8 @@
 {
   "packs": [
     "emotes.json",
-    "troll.json"
+    "troll.json",
+    "cringe.json"
   ],
   "homeserver_url": "https://matrix.kiwifarms.net"
 }
