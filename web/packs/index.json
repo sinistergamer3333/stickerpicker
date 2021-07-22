@@ -3,7 +3,8 @@
     "emotes.json",
     "troll.json",
     "cringe.json",
-    "cirno.json"
+    "cirno.json",
+    "koishi.json"
   ],
   "homeserver_url": "https://matrix.kiwifarms.net"
 }
