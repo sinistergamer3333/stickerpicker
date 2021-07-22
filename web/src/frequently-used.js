@@ -23,7 +23,7 @@ export const add = id => {
 	FREQUENTLY_USED_SORTED = null
 }
 
-export const get = (limit = 16) => {
+export const get = (limit = 32) => {
 	if (FREQUENTLY_USED_SORTED === null) {
 		FREQUENTLY_USED_SORTED = Object.entries(FREQUENTLY_USED)
 			.sort(([, [count1, date1]], [, [count2, date2]]) =>
