@@ -1,10 +1,6 @@
 {
   "packs": [
-    "emotes.json",
-    "troll.json",
-    "cringe.json",
-    "cirno.json",
-    "koishi.json"
+    "MatrixStickerPack.json"
   ],
-  "homeserver_url": "https://matrix.kiwifarms.net"
+  "homeserver_url": "https://kde.modular.im"
 }
